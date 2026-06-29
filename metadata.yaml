@@ -1,4 +1,4 @@
 homepage: https://cookiekita.com/wordpress-plugin
 versions:
-  - sha: TBD
+  - sha: e141a33a62e67717819deb5a9daec985e9c36729
     changeNotes: Initial release. Loads the CookieKita consent banner via Site Key.
